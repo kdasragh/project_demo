@@ -1,0 +1,1 @@
+Create a key named "terraform-key.pem" in your region of choice.
